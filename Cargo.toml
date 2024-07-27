@@ -1,0 +1,9 @@
+[package]
+name = "env-config"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Vinod Sabastian <vinod.sabastian@gmail.com>"]
+
+[dependencies]
+gtk = "0.18.0"
